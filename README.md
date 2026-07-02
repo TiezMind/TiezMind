@@ -19,7 +19,7 @@
 
 ## 🙋 About Me
 
-I am a first-year **M.S. student in Computer Science & Technology** at **Xi'an Jiaotong University**. I received my B.S. from **Yanshan University**, ranked **1st out of 191**. My research centers on **large language models** and **multimodal / omni-modal foundation models**, with a focus on the full **post-training** pipeline.
+I am a first-year **M.S. student in Computer Science & Technology** at **Xi'an Jiaotong University**. My research centers on **large language models** and **multimodal / omni-modal foundation models**, with a focus on the full **post-training** pipeline.
 
 I have interned at **ByteDance Seed**, **TikTok**, and **iFLYTEK**, working on omni-modal (speech) foundation models, large-scale multimodal content understanding, and medical LLMs.
 
@@ -54,8 +54,8 @@ I have interned at **ByteDance Seed**, **TikTok**, and **iFLYTEK**, working on o
 
 | Role | Organization | Period | Focus |
 |---|---|---|---|
-| Research Intern | **ByteDance Seed** | 2026.02 – Present | Omni-modal foundation models (speech) |
-| Research Intern | **TikTok, ByteDance** | 2025.02 – 2025.09 | Multimodal content understanding |
+| Intern | **ByteDance Seed** | 2026.02 – Present | Omni-modal foundation models (speech) |
+| Intern | **TikTok, ByteDance** | 2025.02 – 2025.09 | Multimodal content understanding |
 | Algorithm Intern | **iFLYTEK** | 2024.10 – 2025.01 | Medical LLM (SFT + DPO) · national invention patent |
 
 ## 🛠️ Tech Stack
