@@ -26,7 +26,7 @@ I have interned at **ByteDance Seed**, **TikTok**, and **iFLYTEK**, working on o
 - 🔭 Currently working on the **speech modality of an omni-modal foundation model** @ ByteDance Seed
 - 🌱 Interested in unifying perception, reasoning, and generation across modalities — efficiently
 - 💬 Happy to chat about **multimodal LLMs, omni-modal training, and RL post-training**
-- 📫 Reach me at **18032414931@163.com**
+- 📫 Feel free to email me for any form of academic cooperation!
 
 ## 🔬 Research Interests
 
